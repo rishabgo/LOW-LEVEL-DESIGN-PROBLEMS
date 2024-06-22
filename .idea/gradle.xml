@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CacheLLD" />
             <option value="$PROJECT_DIR$/LRUCacheLLD" />
             <option value="$PROJECT_DIR$/LoggingFramework" />
             <option value="$PROJECT_DIR$/MovieTicketBookingLLD" />
